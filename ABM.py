@@ -4,6 +4,7 @@ Simple implementation of the Schelling model of segregation in Python
 For use in classes at the Harris School of Public Policy
 """
 
+
 from numpy import random, mean
 
 #note: update out_path to point to somewhere on your computer
